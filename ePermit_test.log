@@ -1,0 +1,276 @@
+2021-03-16 05:27:59 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-16 05:28:09 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-16 05:28:41 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-16 05:28:53 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-16 05:29:12 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-16 05:29:29 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-16 05:39:28 INFO  ApplicationHooks:57 - Create New Application For Form C is pass
+2021-03-16 05:40:02 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-16 05:40:35 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-16 05:40:55 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-16 05:41:53 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-16 05:42:12 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-17 03:58:25 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-17 03:58:34 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-17 03:59:04 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-17 03:59:17 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-17 03:59:37 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-17 03:59:55 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-17 04:33:43 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-17 04:33:52 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-17 04:34:35 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-18 08:24:37 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-18 08:24:46 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-18 08:25:28 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-18 08:25:40 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-18 08:25:57 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-18 08:26:13 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-18 08:40:09 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-18 08:40:17 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-18 08:40:59 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-18 08:41:11 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-18 08:41:28 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-18 08:41:44 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-19 06:14:43 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-19 06:14:55 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-19 06:15:37 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-19 06:15:49 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-19 06:16:08 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-19 06:16:24 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-19 06:22:20 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-19 12:03:08 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-19 12:03:46 INFO  ApplicationHooks:54 - All tabs are rendered without errors in Internal application is failed
+2021-03-19 12:04:22 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-19 12:04:33 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-19 12:05:12 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-19 12:05:50 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-22 08:43:47 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-22 08:44:40 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-22 08:44:52 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-22 08:49:39 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-22 08:58:31 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-22 09:52:30 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-22 09:53:06 INFO  ApplicationHooks:54 - All tabs are rendered without errors in Internal application is failed
+2021-03-22 09:53:42 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-22 09:53:56 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-22 09:54:13 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-22 09:54:30 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-22 12:24:34 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-22 12:29:55 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-22 12:35:07 INFO  ApplicationHooks:57 - Create New Application For Form C is pass
+2021-03-22 12:35:16 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-22 12:35:57 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-22 12:36:10 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-22 12:36:27 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-22 12:36:46 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-22 12:53:01 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-22 12:53:43 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-22 12:53:58 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-22 12:54:14 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-22 12:55:28 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-22 12:57:12 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-22 12:58:22 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-22 12:58:54 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-22 12:59:07 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-22 13:00:19 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-23 10:29:11 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-23 10:29:50 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-23 10:30:06 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-23 10:31:22 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-23 10:34:14 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-23 22:40:20 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-23 22:40:57 INFO  ApplicationHooks:54 - All tabs are rendered without errors in Internal application is failed
+2021-03-23 22:41:33 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-23 22:41:44 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-23 22:42:55 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-23 22:44:05 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-25 04:49:19 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-25 04:49:31 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-25 04:50:51 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-25 04:50:59 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-25 04:52:09 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-25 04:52:47 INFO  ApplicationHooks:54 - All tabs are rendered without errors in external application is failed
+2021-03-25 04:53:22 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-25 04:53:57 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-25 04:55:33 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-25 05:02:40 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-25 05:14:41 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-25 05:16:40 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-25 05:20:36 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-25 05:20:56 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-25 05:22:21 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-25 05:24:06 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-25 05:25:26 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-25 05:26:53 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-25 05:27:02 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-25 05:27:42 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-25 05:32:17 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-25 05:33:05 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-25 05:33:54 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-25 05:35:30 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-25 05:35:39 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-25 05:36:20 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-25 11:06:18 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-25 11:06:54 INFO  ApplicationHooks:54 - All tabs are rendered without errors in Internal application is failed
+2021-03-25 11:07:29 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-25 11:07:40 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-25 11:08:48 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-25 11:09:56 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-25 11:16:23 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-25 11:16:59 INFO  ApplicationHooks:54 - All tabs are rendered without errors in Internal application is failed
+2021-03-25 11:17:36 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-25 11:30:41 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-25 11:31:17 INFO  ApplicationHooks:54 - All tabs are rendered without errors in Internal application is failed
+2021-03-25 11:31:59 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-25 11:33:09 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-25 11:34:19 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 02:52:39 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-26 05:10:17 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-26 05:11:16 INFO  ApplicationHooks:54 - All tabs are rendered without errors in Internal application is failed
+2021-03-26 05:16:18 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-26 05:17:03 INFO  ApplicationHooks:54 - All tabs are rendered without errors in Internal application is failed
+2021-03-26 05:17:50 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 05:18:16 INFO  ApplicationHooks:54 - All tabs are rendered without errors in external application is failed
+2021-03-26 05:18:59 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 05:19:48 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 06:29:10 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-26 06:30:49 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 06:34:20 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 06:40:41 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 06:46:05 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 06:53:13 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 07:12:13 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 07:15:35 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 07:19:48 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-26 07:28:27 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-26 07:31:01 INFO  ApplicationHooks:54 - All tabs are rendered without errors in external application is failed
+2021-03-26 07:37:03 INFO  ApplicationHooks:54 - All tabs are rendered without errors in external application is failed
+2021-03-26 07:56:26 INFO  ApplicationHooks:54 - All tabs are rendered without errors in external application is failed
+2021-03-26 07:58:14 INFO  ApplicationHooks:54 - All tabs are rendered without errors in external application is failed
+2021-03-26 08:00:40 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-26 08:01:07 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-26 08:03:02 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 08:25:29 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 08:32:44 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 08:48:00 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 08:58:12 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-26 09:02:07 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-03-26 09:02:31 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-03-26 09:03:13 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-03-26 09:03:27 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-03-26 09:03:45 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-03-26 09:04:01 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-04-05 00:57:50 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-04-05 00:58:15 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-04-05 00:58:58 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-04-05 01:00:06 INFO  ApplicationHooks:54 - All tabs are rendered without errors in external application is failed
+2021-04-05 01:00:51 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-04-05 01:01:34 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-04-15 22:29:13 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-04-15 22:29:58 INFO  ApplicationHooks:54 - All tabs are rendered without errors in Internal application is failed
+2021-05-19 00:12:29 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-05-19 00:13:09 INFO  ApplicationHooks:54 - All tabs are rendered without errors in Internal application is failed
+2021-05-20 02:53:53 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-05-20 02:54:10 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-05-20 02:54:51 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-05-20 02:55:03 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-05-20 02:55:44 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-05-20 02:56:26 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-06-01 10:23:51 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-06-01 10:25:22 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-06-01 10:40:24 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-06-01 10:44:01 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-06-01 10:46:54 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-01 10:54:06 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-01 10:57:36 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-06-01 10:58:52 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-06-01 11:45:25 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-06-04 08:07:51 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-06-07 04:26:19 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-06-07 04:29:04 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-06-07 04:35:30 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 04:43:57 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 04:50:12 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 05:11:37 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 05:15:32 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 05:21:11 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 06:22:37 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 21:18:07 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 21:22:38 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 21:28:35 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 21:41:41 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 21:50:33 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 21:51:36 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 22:06:34 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 22:11:06 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 22:16:56 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 22:24:54 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 22:29:54 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 22:39:32 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 22:46:54 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 22:54:36 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 23:06:44 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-07 23:33:55 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-08 03:24:38 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-06-08 03:25:54 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-06-08 03:27:10 INFO  ApplicationHooks:54 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is failed
+2021-06-08 03:34:55 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-06-08 03:49:06 INFO  ApplicationHooks:54 - User can open any existing case and didi not get errors on Supervisor Tasks tabs is failed
+2021-06-08 03:54:39 INFO  ApplicationHooks:54 - User can open any existing case and didi not get errors on Supervisor Tasks tabs is failed
+2021-06-08 04:15:15 INFO  ApplicationHooks:54 - User can open any existing case and didi not get errors on Personal Tasks tabs is failed
+2021-06-08 04:17:57 INFO  ApplicationHooks:57 - User can open any existing case and didi not get errors on Personal Tasks tabs is pass
+2021-06-08 04:34:57 INFO  ApplicationHooks:57 - User can open any existing case and didi not get errors on Supervisor Tasks tabs is pass
+2021-06-08 04:36:32 INFO  ApplicationHooks:57 - User can open any existing case and didi not get errors on Supervisor Tasks tabs is pass
+2021-06-08 04:43:21 INFO  ApplicationHooks:57 - User can open any existing case and didi not get errors on Supervisor Tasks tabs is pass
+2021-06-08 04:48:49 INFO  ApplicationHooks:57 - User can open any existing case and didi not get errors on Supervisor Tasks tabs is pass
+2021-06-08 04:50:32 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-06-08 04:50:53 INFO  ApplicationHooks:57 - User can open any existing case and didi not get errors on Supervisor Tasks tabs is pass
+2021-06-08 04:51:13 INFO  ApplicationHooks:57 - User can open any existing case and didi not get errors on Personal Tasks tabs is pass
+2021-06-08 04:51:33 INFO  ApplicationHooks:57 - User can open any existing case and didi not get errors on Program Tasks tabs is pass
+2021-06-08 05:00:19 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-08 05:00:32 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-06-08 05:00:48 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-06-09 06:44:43 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-09 06:56:30 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-09 07:36:47 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-09 07:47:42 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-09 07:54:15 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-09 08:03:29 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-09 08:27:43 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 04:20:18 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 04:28:10 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 04:50:25 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 04:58:42 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 05:07:57 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 05:24:30 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 06:53:21 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 06:59:54 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 07:31:21 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 08:00:23 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 08:09:02 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 08:35:12 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 08:44:36 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 09:05:09 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 10:16:11 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 10:34:24 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 10:39:53 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 11:02:50 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 11:55:56 INFO  ApplicationHooks:57 - Create New Application For Form D is pass
+2021-06-10 22:08:15 INFO  ApplicationHooks:54 - Create New Application For Form D is failed
+2021-06-10 22:45:25 INFO  ApplicationHooks:54 - Create New Application For Form D is failed
+2021-06-10 23:00:50 INFO  ApplicationHooks:54 - Create New Application For Form D is failed
+2021-06-10 23:12:09 INFO  ApplicationHooks:54 - Create New Application For Form D is failed
+2021-06-10 23:15:00 INFO  ApplicationHooks:54 - Create New Application For Form D is failed
+2021-06-10 23:22:40 INFO  ApplicationHooks:57 - Create New Application For Form D is pass
+2021-06-10 23:24:49 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-06-10 23:25:09 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-06-10 23:27:02 INFO  ApplicationHooks:57 - All tabs are rendered without errors in external application is pass
+2021-06-10 23:27:19 INFO  ApplicationHooks:57 - User can open any existing case(except the case in draft status) and doesn’t get errors on all tabs is pass
+2021-06-10 23:32:42 INFO  ApplicationHooks:57 - Create New Application For Form C is pass
+2021-06-10 23:36:16 INFO  ApplicationHooks:54 - Create New Application For Form D is failed
+2021-06-10 23:36:36 INFO  ApplicationHooks:57 - All tabs are rendered without errors in Internal application is pass
+2021-06-10 23:36:54 INFO  ApplicationHooks:57 - User can open any existing case and didi not get errors on Supervisor Tasks tabs is pass
+2021-06-10 23:37:12 INFO  ApplicationHooks:57 - User can open any existing case and didi not get errors on Personal Tasks tabs is pass
+2021-06-10 23:37:29 INFO  ApplicationHooks:57 - User can open any existing case and didi not get errors on Program Tasks tabs is pass
+2021-06-10 23:39:05 INFO  ApplicationHooks:54 - Create New Application For Form C is failed
+2021-06-10 23:44:16 INFO  ApplicationHooks:57 - Create New Application For Form D is pass
